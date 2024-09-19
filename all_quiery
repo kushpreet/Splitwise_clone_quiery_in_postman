@@ -1,0 +1,14 @@
+user:
+post_user_register
+url: localhost:8085/users/register
+Data in json:{
+    "username":"Ravinder",
+    "email":"Ravinder@gmail.com",
+    "password":"ravinder1234"
+}
+post_user_login
+url :localhost:8085/users/login
+Data in json:{
+    "email":"Ravinder@gmail.com",
+    "password":"ravinder1234"
+}
